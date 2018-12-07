@@ -1,0 +1,36 @@
+Initialize engine version: 5.6.4f1 (ac7086b8d112)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [igdumdim32.dll 22.20.16.4749]
+    Renderer: Intel(R) HD Graphics 620
+    Vendor:   Intel
+    VRAM:     2111 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 NULL=1 RESZ=1 SlowINTZ=0 ATOC=1 BC4=1 BC5=1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Scham\Desktop\Intro to Game Physics\BouncingBall\Steven_Chamale's_BouncingBall_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Scham\Desktop\Intro to Game Physics\BouncingBall\Steven_Chamale's_BouncingBall_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Scham\Desktop\Intro to Game Physics\BouncingBall\Steven_Chamale's_BouncingBall_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Scham\Desktop\Intro to Game Physics\BouncingBall\Steven_Chamale's_BouncingBall_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Scham\Desktop\Intro to Game Physics\BouncingBall\Steven_Chamale's_BouncingBall_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Scham\Desktop\Intro to Game Physics\BouncingBall\Steven_Chamale's_BouncingBall_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Scham\Desktop\Intro to Game Physics\BouncingBall\Steven_Chamale's_BouncingBall_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Scham\Desktop\Intro to Game Physics\BouncingBall\Steven_Chamale's_BouncingBall_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Scham\Desktop\Intro to Game Physics\BouncingBall\Steven_Chamale's_BouncingBall_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Scham\Desktop\Intro to Game Physics\BouncingBall\Steven_Chamale's_BouncingBall_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Scham\Desktop\Intro to Game Physics\BouncingBall\Steven_Chamale's_BouncingBall_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Scham\Desktop\Intro to Game Physics\BouncingBall\Steven_Chamale's_BouncingBall_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.021 seconds
+Platform assembly: C:\Users\Scham\Desktop\Intro to Game Physics\BouncingBall\Steven_Chamale's_BouncingBall_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Scham\Desktop\Intro to Game Physics\BouncingBall\Steven_Chamale's_BouncingBall_Data\Managed\System.dll (this message is harmless)
+WARNING: Shader Unsupported: 'Hidden/VR/BlitCopyFromTexArray' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/VR/BlitCopyFromTexArray' - Setting to default shader.
+desktop: 2736x1824 59Hz; virtual: 2736x1824 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 4.207385 ms
+Platform assembly: C:\Users\Scham\Desktop\Intro to Game Physics\BouncingBall\Steven_Chamale's_BouncingBall_Data\Managed\Boo.Lang.dll (this message is harmless)
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1048 -> priority: 1 
+  Thread -> id: 175c -> priority: 1 
